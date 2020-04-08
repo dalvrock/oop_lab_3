@@ -1,0 +1,2 @@
+D:\study\labs\OOP\3\oop_3\Debug\oop_3.exe
+D:\study\labs\OOP\3\oop_3\Debug\oop_3.pdb
